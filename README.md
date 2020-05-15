@@ -1,2 +1,2 @@
 # Segundo modelo de menu responsivo
-Modelo de site com menu responsivo
+Modelo de menu responsivo
